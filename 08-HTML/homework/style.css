@@ -1,0 +1,44 @@
+body{
+    background-color: #473FFF;
+    opacity: 0.9;
+    background: repeating-linear-gradient( 45deg, #F7FF3F, #F7FF3F 9px, #473FFF 9px, #473FFF 45px );
+}
+
+h1{
+    color: #08C4EF;
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+h4{
+    text-align: center;
+}
+
+img{
+    width: 400px;
+}
+
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color: #4E5355;
+    padding: 50px;
+    border-width: 10px;
+    border-color: #E9EAEA;
+    border-style: dashed;
+    margin: auto;
+}
+
+#spandId{
+    font-size: 18px;
+    margin: 50px;
+    text-align: center;
+}
+
+.divClass{
+    text-align: center;
+}
+  
